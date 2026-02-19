@@ -9,48 +9,7 @@
         "documentation": {}
     },
     {
-        "label": "pandas",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "pandas",
-        "description": "pandas",
-        "detail": "pandas",
-        "documentation": {}
-    },
-    {
-        "label": "StandardScaler",
-        "importPath": "sklearn.preprocessing",
-        "description": "sklearn.preprocessing",
-        "isExtraImport": true,
-        "detail": "sklearn.preprocessing",
-        "documentation": {}
-    },
-    {
-        "label": "LabelEncoder",
-        "importPath": "sklearn.preprocessing",
-        "description": "sklearn.preprocessing",
-        "isExtraImport": true,
-        "detail": "sklearn.preprocessing",
-        "documentation": {}
-    },
-    {
-        "label": "train_test_split",
-        "importPath": "sklearn.model_selection",
-        "description": "sklearn.model_selection",
-        "isExtraImport": true,
-        "detail": "sklearn.model_selection",
-        "documentation": {}
-    },
-    {
-        "label": "classification_report",
-        "importPath": "sklearn.metrics",
-        "description": "sklearn.metrics",
-        "isExtraImport": true,
-        "detail": "sklearn.metrics",
-        "documentation": {}
-    },
-    {
-        "label": "confusion_matrix",
+        "label": "f1_score",
         "importPath": "sklearn.metrics",
         "description": "sklearn.metrics",
         "isExtraImport": true,
@@ -74,21 +33,264 @@
         "documentation": {}
     },
     {
-        "label": "warnings",
-        "kind": 6,
+        "label": "average_precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
         "isExtraImport": true,
-        "importPath": "warnings",
-        "description": "warnings",
-        "detail": "warnings",
+        "detail": "sklearn.metrics",
         "documentation": {}
     },
     {
-        "label": "PPGLSTMExpert",
+        "label": "xgboost",
         "kind": 6,
-        "importPath": "src.models.ppg_lstm_model",
-        "description": "src.models.ppg_lstm_model",
-        "peekOfCode": "class PPGLSTMExpert:\n    \"\"\"\n    PPG Time-Series Expert Branch for the Ruvimbo PPH Fusion System.\n    Input:\n        - Raw PPG waveform segments (N_samples x timesteps) OR\n        - Pre-computed statistical features from waveform extraction\n    Architecture:\n        Bidirectional LSTM - Dense embedding - Softmax (3 classes)\n        Normal / Tachycardia (PPH risk) / Bradycardia\n    Output:",
-        "detail": "src.models.ppg_lstm_model",
+        "isExtraImport": true,
+        "importPath": "xgboost",
+        "description": "xgboost",
+        "detail": "xgboost",
+        "documentation": {}
+    },
+    {
+        "label": "CalibratedClassifierCV",
+        "importPath": "sklearn.calibration",
+        "description": "sklearn.calibration",
+        "isExtraImport": true,
+        "detail": "sklearn.calibration",
+        "documentation": {}
+    },
+    {
+        "label": "tensorflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tensorflow",
+        "description": "tensorflow",
+        "detail": "tensorflow",
+        "documentation": {}
+    },
+    {
+        "label": "Input",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dropout",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "BatchNormalization",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Adam",
+        "importPath": "tensorflow.keras.optimizers",
+        "description": "tensorflow.keras.optimizers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.optimizers",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "build_pixel_model",
+        "importPath": "src.models.anemia.pixel_model",
+        "description": "src.models.anemia.pixel_model",
+        "isExtraImport": true,
+        "detail": "src.models.anemia.pixel_model",
+        "documentation": {}
+    },
+    {
+        "label": "build_hb_model",
+        "importPath": "src.models.anemia.hb_model",
+        "description": "src.models.anemia.hb_model",
+        "isExtraImport": true,
+        "detail": "src.models.anemia.hb_model",
+        "documentation": {}
+    },
+    {
+        "label": "generate_oof_embeddings",
+        "importPath": "src.models.anemia.stacking",
+        "description": "src.models.anemia.stacking",
+        "isExtraImport": true,
+        "detail": "src.models.anemia.stacking",
+        "documentation": {}
+    },
+    {
+        "label": "build_fusion_model",
+        "importPath": "src.models.anemia.fusion_model",
+        "description": "src.models.anemia.fusion_model",
+        "isExtraImport": true,
+        "detail": "src.models.anemia.fusion_model",
+        "documentation": {}
+    },
+    {
+        "label": "optimize_threshold",
+        "importPath": "src.evaluation.threshold_search",
+        "description": "src.evaluation.threshold_search",
+        "isExtraImport": true,
+        "detail": "src.evaluation.threshold_search",
+        "documentation": {}
+    },
+    {
+        "label": "optimize_threshold",
+        "kind": 2,
+        "importPath": "src.evaluation.threshold_search",
+        "description": "src.evaluation.threshold_search",
+        "peekOfCode": "def optimize_threshold(y_true, y_prob):\n    thresholds = np.linspace(0.1, 0.9, 100)\n    scores = []\n    for t in thresholds:\n        preds = (y_prob >= t).astype(int)\n        scores.append(f1_score(y_true, preds))\n    best_idx = np.argmax(scores)\n    return thresholds[best_idx]",
+        "detail": "src.evaluation.threshold_search",
+        "documentation": {}
+    },
+    {
+        "label": "build_fusion_model",
+        "kind": 2,
+        "importPath": "src.models.anemia.fusion_model",
+        "description": "src.models.anemia.fusion_model",
+        "peekOfCode": "def build_fusion_model(config, scale_pos_weight):\n    base_model = xgb.XGBClassifier(\n        n_estimators=config[\"n_estimators\"],\n        max_depth=config[\"max_depth\"],\n        learning_rate=config[\"learning_rate\"],\n        subsample=0.8,\n        colsample_bytree=0.8,\n        scale_pos_weight=scale_pos_weight,\n        eval_metric=\"logloss\",\n        random_state=42",
+        "detail": "src.models.anemia.fusion_model",
+        "documentation": {}
+    },
+    {
+        "label": "build_hb_model",
+        "kind": 2,
+        "importPath": "src.models.anemia.hb_model",
+        "description": "src.models.anemia.hb_model",
+        "peekOfCode": "def build_hb_model(config, scale_pos_weight):\n    return xgb.XGBClassifier(\n        n_estimators=config[\"n_estimators\"],\n        max_depth=config[\"max_depth\"],\n        learning_rate=config[\"learning_rate\"],\n        subsample=config[\"subsample\"],\n        colsample_bytree=config[\"colsample_bytree\"],\n        gamma=config[\"gamma\"],\n        min_child_weight=config[\"min_child_weight\"],\n        scale_pos_weight=scale_pos_weight,",
+        "detail": "src.models.anemia.hb_model",
+        "documentation": {}
+    },
+    {
+        "label": "build_pixel_model",
+        "kind": 2,
+        "importPath": "src.models.anemia.pixel_model",
+        "description": "src.models.anemia.pixel_model",
+        "peekOfCode": "def build_pixel_model(config):\n    inp = Input(shape=(config[\"input_dim\"],))\n    x = inp\n    for units in config[\"hidden_units\"]:\n        x = Dense(units, activation=\"relu\")(x)\n        x = BatchNormalization()(x)\n        x = Dropout(config[\"dropout\"])(x)\n    embedding = Dense(config[\"embedding_dim\"],\n                      activation=\"relu\",\n                      name=\"embedding\")(x)",
+        "detail": "src.models.anemia.pixel_model",
+        "documentation": {}
+    },
+    {
+        "label": "generate_oof_embeddings",
+        "kind": 2,
+        "importPath": "src.models.anemia.stacking",
+        "description": "src.models.anemia.stacking",
+        "peekOfCode": "def generate_oof_embeddings(\n    pixel_builder,\n    hb_builder,\n    config,\n    X_pix,\n    X_hb,\n    y\n):\n    skf = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)\n    embedding_dim = config[\"pixel\"][\"embedding_dim\"]",
+        "detail": "src.models.anemia.stacking",
+        "documentation": {}
+    },
+    {
+        "label": "train",
+        "kind": 2,
+        "importPath": "src.models.anemia.train_anemia",
+        "description": "src.models.anemia.train_anemia",
+        "peekOfCode": "def train():\n    # Loading config\n    with open(\"src/config/anemia.yaml\") as f:\n        config = yaml.safe_load(f)\n    df = pd.read_csv(\"data/processed/anemia_cleaned.csv\")\n    X_pixels = df[['red_pixel_pct','green_pixel_pct','blue_pixel_pct',\n                   'rgb_sum','red_green_ratio','pallor_index']].values\n    X_hb = df[['hemoglobin_gdl']].values\n    y = (df['anaemic'] == 'Yes').astype(int).values\n    X_train_pix, X_test_pix, X_train_hb, X_test_hb, y_train, y_test = \\",
+        "detail": "src.models.anemia.train_anemia",
         "documentation": {}
     }
 ]
