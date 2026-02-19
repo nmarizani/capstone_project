@@ -1,0 +1,21 @@
+{
+  "features": [
+    "age",
+    "systolic_bp",
+    "diastolic_bp",
+    "blood_sugar",
+    "temp_celsius",
+    "bmi",
+    "prev_complications",
+    "preexist_diabetes",
+    "gest_diabetes",
+    "mental_health",
+    "heart_rate",
+    "pulse_pressure",
+    "map_mmhg"
+  ],
+  "embedding_dim": 32,
+  "train_samples": 964,
+  "val_samples": 241,
+  "noise_std": 0.15
+}
