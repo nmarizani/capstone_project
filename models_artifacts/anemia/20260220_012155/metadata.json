@@ -1,0 +1,44 @@
+{
+  "version": "20260220_012155",
+  "pixel_features": [
+    "red_n",
+    "green_n",
+    "blue_n",
+    "rg_ratio",
+    "pallor_index",
+    "rgb_sum"
+  ],
+  "hb_features": [
+    "hb"
+  ],
+  "embedding_dim": 32,
+  "cv_metrics": [
+    {
+      "fold": 1,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0
+    },
+    {
+      "fold": 2,
+      "roc_auc": 0.9375,
+      "pr_auc": 0.8711111111111112
+    },
+    {
+      "fold": 3,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0
+    },
+    {
+      "fold": 4,
+      "roc_auc": 0.8125,
+      "pr_auc": 0.8500000000000001
+    },
+    {
+      "fold": 5,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0
+    }
+  ],
+  "oof_roc_auc_cal": 0.9541420118343196,
+  "oof_pr_auc_cal": 0.9437202693343045
+}
