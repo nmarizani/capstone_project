@@ -1,0 +1,7 @@
+{
+  "fs": 100,
+  "bandpass_low": 0.5,
+  "bandpass_high": 8.0,
+  "order": 4,
+  "downsample": 4
+}

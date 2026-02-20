@@ -1,0 +1,4 @@
+{
+  "embedding_dim": 32,
+  "seq_len": 500
+}
