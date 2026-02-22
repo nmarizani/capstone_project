@@ -1,0 +1,5 @@
+{
+  "threshold": 0.11888888888888888,
+  "target": "pph_proxy_v1",
+  "min_recall": 0.9
+}
