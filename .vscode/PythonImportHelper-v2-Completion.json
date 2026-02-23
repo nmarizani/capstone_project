@@ -1,11 +1,562 @@
 [
     {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FusionPredictionRequest",
+        "importPath": "app.schemas.fusion_prediction",
+        "description": "app.schemas.fusion_prediction",
+        "isExtraImport": true,
+        "detail": "app.schemas.fusion_prediction",
+        "documentation": {}
+    },
+    {
+        "label": "FusionPredictionResponse",
+        "importPath": "app.schemas.fusion_prediction",
+        "description": "app.schemas.fusion_prediction",
+        "isExtraImport": true,
+        "detail": "app.schemas.fusion_prediction",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
         "label": "numpy",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "numpy",
         "description": "numpy",
         "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "generate_explanations_and_actions",
+        "importPath": "app.services.explanation_engine",
+        "description": "app.services.explanation_engine",
+        "isExtraImport": true,
+        "detail": "app.services.explanation_engine",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.routes.predictions",
+        "description": "app.routes.predictions",
+        "isExtraImport": true,
+        "detail": "app.routes.predictions",
+        "documentation": {}
+    },
+    {
+        "label": "FusionInferenceService",
+        "importPath": "app.services.fusion_inference_service",
+        "description": "app.services.fusion_inference_service",
+        "isExtraImport": true,
+        "detail": "app.services.fusion_inference_service",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "sanitize_numeric_df",
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "isExtraImport": true,
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_dir",
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "isExtraImport": true,
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_json",
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "isExtraImport": true,
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_json",
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "isExtraImport": true,
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_dir",
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "isExtraImport": true,
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "pick_threshold_for_recall",
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "isExtraImport": true,
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_json",
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "isExtraImport": true,
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timestamp_version",
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "isExtraImport": true,
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_dir",
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "isExtraImport": true,
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_json",
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "isExtraImport": true,
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timestamp_version",
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "isExtraImport": true,
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "xgboost",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "xgboost",
+        "description": "xgboost",
+        "detail": "xgboost",
+        "documentation": {}
+    },
+    {
+        "label": "LogisticRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "average_precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
         "documentation": {}
     },
     {
@@ -17,30 +568,528 @@
         "documentation": {}
     },
     {
-        "label": "optimize_threshold",
-        "kind": 2,
-        "importPath": "src.evaluation.threshold_search",
-        "description": "src.evaluation.threshold_search",
-        "peekOfCode": "def optimize_threshold(y_true, y_prob):\n    thresholds = np.linspace(0.1, 0.9, 100)\n    scores = []\n    for t in thresholds:\n        preds = (y_prob >= t).astype(int)\n        scores.append(f1_score(y_true, preds))\n    best_idx = np.argmax(scores)\n    return thresholds[best_idx]",
-        "detail": "src.evaluation.threshold_search",
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
         "documentation": {}
     },
     {
-        "label": "clinical_rules",
-        "kind": 2,
-        "importPath": "src.rules.clinical_flags",
-        "description": "src.rules.clinical_flags",
-        "peekOfCode": "def clinical_rules(row):\n    sbp = row[\"systolic_bp\"]\n    dbp = row[\"diastolic_bp\"]\n    sugar = row[\"blood_sugar\"]\n    preexist = row[\"preexist_diabetes\"]\n    gest = row[\"gest_diabetes\"]\n    hypertension_flag = int((sbp >= 140) or (dbp >= 90))\n    diabetes_any = int((sugar >= 126) or (preexist == 1) or (gest == 1))\n    return {\n        \"hypertension_flag\": hypertension_flag,",
-        "detail": "src.rules.clinical_flags",
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
         "documentation": {}
     },
     {
-        "label": "demo",
+        "label": "roc_auc_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "tensorflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tensorflow",
+        "description": "tensorflow",
+        "detail": "tensorflow",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tensorflow.keras",
+        "description": "tensorflow.keras",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras",
+        "documentation": {}
+    },
+    {
+        "label": "EarlyStopping",
+        "importPath": "tensorflow.keras.callbacks",
+        "description": "tensorflow.keras.callbacks",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "ReduceLROnPlateau",
+        "importPath": "tensorflow.keras.callbacks",
+        "description": "tensorflow.keras.callbacks",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "TerminateOnNaN",
+        "importPath": "tensorflow.keras.callbacks",
+        "description": "tensorflow.keras.callbacks",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "BatchNormalization",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dropout",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Input",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "predict_pph_proxy",
+        "kind": 2,
+        "importPath": "backend_api.app.routes.predictions",
+        "description": "backend_api.app.routes.predictions",
+        "peekOfCode": "def predict_pph_proxy(payload: FusionPredictionRequest, request: Request):\n    \"\"\"\n    Expects a flat feature map matching the fusion training features.json.\n    \"\"\"\n    svc = request.app.state.fusion_service\n    if not svc.is_loaded():\n        raise HTTPException(status_code=503, detail=\"Fusion model is not loaded\")\n    try:\n        result = svc.predict_from_feature_map(payload.features)\n        return result",
+        "detail": "backend_api.app.routes.predictions",
+        "documentation": {}
+    },
+    {
+        "label": "router",
         "kind": 5,
-        "importPath": "src.rules.clinical_flags",
-        "description": "src.rules.clinical_flags",
-        "peekOfCode": "demo = df.head(5).apply(clinical_rules, axis=1, result_type=\"expand\")\ndisplay(pd.concat([df.head(5)[[\"systolic_bp\",\"diastolic_bp\",\"blood_sugar\",\"preexist_diabetes\",\"gest_diabetes\",\"hypertension_flag\",\"diabetes_any\"]], demo.add_prefix(\"rule_\")], axis=1))",
-        "detail": "src.rules.clinical_flags",
+        "importPath": "backend_api.app.routes.predictions",
+        "description": "backend_api.app.routes.predictions",
+        "peekOfCode": "router = APIRouter(prefix=\"/api/v1/predictions\", tags=[\"predictions\"])\n@router.post(\"/pph-proxy\", response_model=FusionPredictionResponse)\ndef predict_pph_proxy(payload: FusionPredictionRequest, request: Request):\n    \"\"\"\n    Expects a flat feature map matching the fusion training features.json.\n    \"\"\"\n    svc = request.app.state.fusion_service\n    if not svc.is_loaded():\n        raise HTTPException(status_code=503, detail=\"Fusion model is not loaded\")\n    try:",
+        "detail": "backend_api.app.routes.predictions",
+        "documentation": {}
+    },
+    {
+        "label": "FusionPredictionRequest",
+        "kind": 6,
+        "importPath": "backend_api.app.schemas.fusion_prediction",
+        "description": "backend_api.app.schemas.fusion_prediction",
+        "peekOfCode": "class FusionPredictionRequest(BaseModel):\n    patient_local_id: Optional[str] = Field(default=None, examples=[\"ZW-HRE-001\"])\n    visit_id: Optional[str] = Field(default=None, examples=[\"visit-2026-02-23-001\"])\n    # Flat feature map matching fusion training features.json\n    features: Dict[str, float] = Field(\n        ...,\n        description=\"Flat numeric feature dictionary keyed by fusion feature names.\"\n    )\n    meta: Optional[Dict[str, Any]] = Field(\n        default=None,",
+        "detail": "backend_api.app.schemas.fusion_prediction",
+        "documentation": {}
+    },
+    {
+        "label": "FusionPredictionResponse",
+        "kind": 6,
+        "importPath": "backend_api.app.schemas.fusion_prediction",
+        "description": "backend_api.app.schemas.fusion_prediction",
+        "peekOfCode": "class FusionPredictionResponse(BaseModel):\n    status: str\n    prediction: Dict[str, Any]\n    explanations: list[str] = []\n    recommended_actions: list[str] = []\n    warnings: list[str] = []\n    model_info: Dict[str, Any]",
+        "detail": "backend_api.app.schemas.fusion_prediction",
+        "documentation": {}
+    },
+    {
+        "label": "compute_risk_band",
+        "kind": 2,
+        "importPath": "backend_api.app.services.explanation_engine",
+        "description": "backend_api.app.services.explanation_engine",
+        "peekOfCode": "def compute_risk_band(prob: float, threshold: float) -> str:\n    \"\"\"\n    Make risk bands consistent with the model threshold.\n    This avoids cases like label=1 but risk_band='low'.\n    \"\"\"\n    if prob < threshold:\n        return \"low\"\n    # Margin above threshold (adaptive)\n    margin1 = max(0.08, threshold * 0.5)\n    margin2 = max(0.20, threshold * 1.2)",
+        "detail": "backend_api.app.services.explanation_engine",
+        "documentation": {}
+    },
+    {
+        "label": "generate_explanations_and_actions",
+        "kind": 2,
+        "importPath": "backend_api.app.services.explanation_engine",
+        "description": "backend_api.app.services.explanation_engine",
+        "peekOfCode": "def generate_explanations_and_actions(\n    feature_map: Dict[str, Any],\n    prob: float,\n    threshold: float,\n    label: int,\n) -> Dict[str, List[str] | str]:\n    explanations: List[str] = []\n    actions: List[str] = []\n    warnings: List[str] = []\n    # Pull common inputs used in your current pipeline",
+        "detail": "backend_api.app.services.explanation_engine",
+        "documentation": {}
+    },
+    {
+        "label": "FusionArtifacts",
+        "kind": 6,
+        "importPath": "backend_api.app.services.fusion_inference_service",
+        "description": "backend_api.app.services.fusion_inference_service",
+        "peekOfCode": "class FusionArtifacts:\n    model: Any\n    calibrator: Any\n    threshold: float\n    feature_names: List[str]\n    version_dir: str\n    label_type: str = \"proxy_rule_v1\"\nclass FusionInferenceService:\n    def __init__(self, artifacts_root: str = \"models_artifacts/fusion_pph_proxy\"):\n        self.artifacts_root = artifacts_root",
+        "detail": "backend_api.app.services.fusion_inference_service",
+        "documentation": {}
+    },
+    {
+        "label": "FusionInferenceService",
+        "kind": 6,
+        "importPath": "backend_api.app.services.fusion_inference_service",
+        "description": "backend_api.app.services.fusion_inference_service",
+        "peekOfCode": "class FusionInferenceService:\n    def __init__(self, artifacts_root: str = \"models_artifacts/fusion_pph_proxy\"):\n        self.artifacts_root = artifacts_root\n        self.artifacts: Optional[FusionArtifacts] = None\n    def load(self) -> None:\n        version_dir = self._latest_version_dir(self.artifacts_root)\n        if version_dir is None:\n            raise FileNotFoundError(f\"No artifact versions found in: {self.artifacts_root}\")\n        model_path = os.path.join(version_dir, \"model.pkl\")\n        calibrator_path = os.path.join(version_dir, \"calibrator.pkl\")",
+        "detail": "backend_api.app.services.fusion_inference_service",
+        "documentation": {}
+    },
+    {
+        "label": "health",
+        "kind": 2,
+        "importPath": "backend_api.app.main",
+        "description": "backend_api.app.main",
+        "peekOfCode": "def health():\n    return {\"status\": \"ok\"}\n@app.get(\"/model-info\")\ndef model_info():\n    svc = app.state.fusion_service\n    if not svc.is_loaded():\n        return {\"loaded\": False}\n    art = svc.artifacts\n    return {\n        \"loaded\": True,",
+        "detail": "backend_api.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "model_info",
+        "kind": 2,
+        "importPath": "backend_api.app.main",
+        "description": "backend_api.app.main",
+        "peekOfCode": "def model_info():\n    svc = app.state.fusion_service\n    if not svc.is_loaded():\n        return {\"loaded\": False}\n    art = svc.artifacts\n    return {\n        \"loaded\": True,\n        \"fusion_model_version\": art.version_dir.split(\"/\")[-1].split(\"\\\\\")[-1],\n        \"threshold\": art.threshold,\n        \"label_type\": art.label_type,",
+        "detail": "backend_api.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend_api.app.main",
+        "description": "backend_api.app.main",
+        "peekOfCode": "app = FastAPI(\n    title=\"PPH Fusion Proxy API\",\n    version=\"1.0.0\",\n    lifespan=lifespan,\n)\napp.include_router(predictions_router)\n@app.get(\"/health\")\ndef health():\n    return {\"status\": \"ok\"}\n@app.get(\"/model-info\")",
+        "detail": "backend_api.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.build_fusion_dataset",
+        "description": "src.fusion_model_files.build_fusion_dataset",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description=\"Build fusion master dataset from clinical, anemia, and PPG outputs.\")\n    parser.add_argument(\"--clinical\", default=\"data/processed/clinical_with_embeddings.csv\")\n    parser.add_argument(\"--anemia\", default=\"data/processed/anemia_with_embeddings.csv\")\n    parser.add_argument(\"--ppg\", default=\"data/processed/ppg_with_embeddings.csv\")\n    parser.add_argument(\"--output\", default=\"data/processed/fusion_master_table.csv\")\n    parser.add_argument(\"--join-key\", default=None, help=\"Optional common key column (e.g., record_id). If omitted, aligns by row index.\")\n    args = parser.parse_args()\n    clinical = _strip_unnamed(pd.read_csv(args.clinical))\n    anemia = _strip_unnamed(pd.read_csv(args.anemia))",
+        "detail": "src.fusion_model_files.build_fusion_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "psi",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.drift_monitor",
+        "description": "src.fusion_model_files.drift_monitor",
+        "peekOfCode": "def psi(expected: pd.Series, actual: pd.Series, bins: int = 10, eps: float = 1e-6) -> float:\n    e = pd.to_numeric(expected, errors=\"coerce\").dropna().astype(float)\n    a = pd.to_numeric(actual, errors=\"coerce\").dropna().astype(float)\n    if len(e) < 20 or len(a) < 20:\n        return float(\"nan\")\n    quantiles = np.linspace(0, 1, bins + 1)\n    cuts = np.unique(np.quantile(e, quantiles))\n    if len(cuts) < 3:\n        return 0.0\n    e_counts, _ = np.histogram(e, bins=cuts)",
+        "detail": "src.fusion_model_files.drift_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "embedding_centroid_shift",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.drift_monitor",
+        "description": "src.fusion_model_files.drift_monitor",
+        "peekOfCode": "def embedding_centroid_shift(ref: pd.DataFrame, cur: pd.DataFrame) -> float | None:\n    emb_cols = [c for c in ref.columns if c.startswith((\"clin_emb_\", \"anemia_emb_\", \"ppg_emb_\", \"fusion_emb_\")) and c in cur.columns]\n    if not emb_cols:\n        return None\n    ref_num = ref[emb_cols].apply(pd.to_numeric, errors=\"coerce\").replace([np.inf, -np.inf], np.nan)\n    cur_num = cur[emb_cols].apply(pd.to_numeric, errors=\"coerce\").replace([np.inf, -np.inf], np.nan)\n    ref_cent = ref_num.mean(axis=0).fillna(0.0).values.astype(float)\n    cur_cent = cur_num.mean(axis=0).fillna(0.0).values.astype(float)\n    return float(np.linalg.norm(cur_cent - ref_cent))\ndef main():",
+        "detail": "src.fusion_model_files.drift_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.drift_monitor",
+        "description": "src.fusion_model_files.drift_monitor",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description=\"Compute drift report between reference and current fusion datasets.\")\n    parser.add_argument(\"--reference\", default=\"data/processed/fusion_master_with_embeddings.csv\")\n    parser.add_argument(\"--current\", required=True, help=\"New batch CSV to compare against reference.\")\n    parser.add_argument(\"--output\", default=\"reports/fusion_drift_report.json\")\n    parser.add_argument(\"--psi-threshold\", type=float, default=0.20)\n    parser.add_argument(\"--centroid-threshold\", type=float, default=1.50)\n    args = parser.parse_args()\n    ref = pd.read_csv(args.reference)\n    cur = pd.read_csv(args.current)",
+        "detail": "src.fusion_model_files.drift_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "src.fusion_model_files.proxy_checks",
+        "description": "src.fusion_model_files.proxy_checks",
+        "peekOfCode": "df = pd.read_csv(\"data/processed/fusion_master_with_proxy.csv\")\n# 1) Check proxy score distribution\nprint(df[\"pph_proxy_score_v1\"].describe())\n# 2) Check top scores\nprint(df[\"pph_proxy_score_v1\"].sort_values(ascending=False).head(10))\n# 3) Check how many would be positive at lower thresholds\nfor t in [0.20, 0.25, 0.30, 0.35, 0.40, 0.45, 0.50, 0.55]:\n    prev = (df[\"pph_proxy_score_v1\"] >= t).mean()\n    print(f\"threshold={t:.2f} -> prevalence={prev:.3f}\")\n# 4) Check whether key columns exist",
+        "detail": "src.fusion_model_files.proxy_checks",
+        "documentation": {}
+    },
+    {
+        "label": "needed",
+        "kind": 5,
+        "importPath": "src.fusion_model_files.proxy_checks",
+        "description": "src.fusion_model_files.proxy_checks",
+        "peekOfCode": "needed = [\n    \"p_anemia\", \"hr_bpm_est\", \"ibi_std\", \"peak_count\",\n    \"prev_complications\", \"hypertension_flag\", \"diabetes_any\",\n    \"systolic_bp\", \"diastolic_bp\", \"map_mmhg\", \"pulse_pressure\", \"Risk Level\"\n]\nprint({c: (c in df.columns) for c in needed})\n# 5) Inspect key columns if present\nfor c in needed:\n    if c in df.columns:\n        print(\"\\n\", c)",
+        "detail": "src.fusion_model_files.proxy_checks",
+        "documentation": {}
+    },
+    {
+        "label": "build_pph_proxy_rule_v1",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.proxy_rules",
+        "description": "src.fusion_model_files.proxy_rules",
+        "peekOfCode": "def build_pph_proxy_rule_v1(df: pd.DataFrame) -> pd.DataFrame:\n    out = df.copy()\n    # Anemia burden\n    if \"p_anemia\" in out.columns:\n        anemia = _as_num(out[\"p_anemia\"]).fillna(0.0).clip(0, 1)\n    else:\n        anemia = pd.Series(0.0, index=out.index)\n    # Hemodynamic stress (PPG proxies)\n    hr_score = _tachy_score(out[\"hr_bpm_est\"]) if \"hr_bpm_est\" in out.columns else pd.Series(0.0, index=out.index)\n    ibi_var_score = _minmax_series(out[\"ibi_std\"]) if \"ibi_std\" in out.columns else pd.Series(0.0, index=out.index)",
+        "detail": "src.fusion_model_files.proxy_rules",
+        "documentation": {}
+    },
+    {
+        "label": "assign_proxy_labels",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.proxy_rules",
+        "description": "src.fusion_model_files.proxy_rules",
+        "peekOfCode": "def assign_proxy_labels(\n    df: pd.DataFrame,\n    threshold_mode: str = \"fixed\",\n    threshold: float = 0.55,\n    quantile: float = 0.85,\n) -> tuple[pd.DataFrame, float, str]:\n    out = df.copy()\n    if \"pph_proxy_score_v1\" not in out.columns:\n        raise ValueError(\"pph_proxy_score_v1 not found. Run build_pph_proxy_rule_v1 first.\")\n    scores = pd.to_numeric(out[\"pph_proxy_score_v1\"], errors=\"coerce\").fillna(0.0)",
+        "detail": "src.fusion_model_files.proxy_rules",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.proxy_rules",
+        "description": "src.fusion_model_files.proxy_rules",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description=\"Add pph proxy rule v1 columns to fusion master table.\")\n    parser.add_argument(\"--input\", default=\"data/processed/fusion_master_table.csv\")\n    parser.add_argument(\"--output\", default=\"data/processed/fusion_master_with_proxy.csv\")\n    # Threshold behavior\n    parser.add_argument(\"--threshold-mode\", choices=[\"fixed\", \"quantile\"], default=\"fixed\")\n    parser.add_argument(\"--threshold\", type=float, default=0.55, help=\"Used when --threshold-mode fixed\")\n    parser.add_argument(\"--quantile\", type=float, default=0.85, help=\"Used when --threshold-mode quantile (e.g., 0.85 => top 15% positive)\")\n    args = parser.parse_args()\n    df = pd.read_csv(args.input)",
+        "detail": "src.fusion_model_files.proxy_rules",
+        "documentation": {}
+    },
+    {
+        "label": "champion_challenger_decision",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.retrain_hooks",
+        "description": "src.fusion_model_files.retrain_hooks",
+        "peekOfCode": "def champion_challenger_decision(\n    champion_dir: str,\n    challenger_dir: str,\n    min_pr_auc_delta: float = 0.0,\n    max_recall_drop: float = 0.02,\n) -> dict:\n    champ_metrics_path = os.path.join(champion_dir, \"metrics.json\")\n    chal_metrics_path = os.path.join(challenger_dir, \"metrics.json\")\n    champ = load_json(champ_metrics_path)\n    chal = load_json(chal_metrics_path)",
+        "detail": "src.fusion_model_files.retrain_hooks",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.retrain_hooks",
+        "description": "src.fusion_model_files.retrain_hooks",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description=\"Champion-challenger promotion decision for fusion proxy models.\")\n    parser.add_argument(\"--champion-root\", default=\"models_artifacts/fusion_pph_proxy\")\n    parser.add_argument(\"--challenger-dir\", required=True, help=\"Path to newly trained challenger artifact directory.\")\n    parser.add_argument(\"--min-pr-auc-delta\", type=float, default=0.0)\n    parser.add_argument(\"--max-recall-drop\", type=float, default=0.02)\n    args = parser.parse_args()\n    champion_dir = _latest_version_dir(args.champion_root)\n    if champion_dir is None:\n        print(\"[INFO] No existing champion found. Promote challenger by default.\")",
+        "detail": "src.fusion_model_files.retrain_hooks",
+        "documentation": {}
+    },
+    {
+        "label": "build_feature_matrix",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.train_fusion_proxy",
+        "description": "src.fusion_model_files.train_fusion_proxy",
+        "peekOfCode": "def build_feature_matrix(df: pd.DataFrame, include_risk_level: bool = False) -> tuple[pd.DataFrame, np.ndarray]:\n    target = \"pph_proxy_v1\"\n    if target not in df.columns:\n        raise ValueError(\"Expected target column 'pph_proxy_v1' in input CSV.\")\n    drop_cols = {\n        target,\n        \"pph_proxy_score_v1\",\n        \"pph_proxy_label_type\",\n        \"pph\",  # if present later\n        \"Label\",",
+        "detail": "src.fusion_model_files.train_fusion_proxy",
+        "documentation": {}
+    },
+    {
+        "label": "train_xgb_oof_calibrated",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.train_fusion_proxy",
+        "description": "src.fusion_model_files.train_fusion_proxy",
+        "peekOfCode": "def train_xgb_oof_calibrated(X: np.ndarray, y: np.ndarray, random_state: int = 42, n_splits: int = 5) -> dict:\n    skf = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=random_state)\n    oof_base = np.zeros(len(y), dtype=float)\n    fold_stats = []\n    pos = int(y.sum())\n    neg = int(len(y) - pos)\n    spw = float(neg / max(pos, 1))\n    for fold, (tr, te) in enumerate(skf.split(X, y), start=1):\n        model = xgb.XGBClassifier(\n            n_estimators=500,",
+        "detail": "src.fusion_model_files.train_fusion_proxy",
+        "documentation": {}
+    },
+    {
+        "label": "save_eval_plots",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.train_fusion_proxy",
+        "description": "src.fusion_model_files.train_fusion_proxy",
+        "peekOfCode": "def save_eval_plots(y: np.ndarray, y_prob: np.ndarray, y_pred: np.ndarray, out_dir: str):\n    try:\n        import matplotlib.pyplot as plt\n        from sklearn.metrics import precision_recall_curve, roc_curve, auc\n        fig_dir = ensure_dir(\"reports/figures/fusion\")\n        # ROC\n        fpr, tpr, _ = roc_curve(y, y_prob)\n        roc_auc = auc(fpr, tpr)\n        plt.figure(figsize=(6, 4))\n        plt.plot(fpr, tpr, label=f\"AUC={roc_auc:.3f}\")",
+        "detail": "src.fusion_model_files.train_fusion_proxy",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.train_fusion_proxy",
+        "description": "src.fusion_model_files.train_fusion_proxy",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description=\"Train proxy-supervised fusion model on pph_proxy_v1.\")\n    parser.add_argument(\"--input\", default=\"data/processed/fusion_master_with_embeddings.csv\")\n    parser.add_argument(\"--artifacts-root\", default=\"models_artifacts/fusion_pph_proxy\")\n    parser.add_argument(\"--include-risk-level\", action=\"store_true\", help=\"Include Risk Level (numeric if present) as feature if available.\")\n    parser.add_argument(\"--random-state\", type=int, default=42)\n    args = parser.parse_args()\n    df = pd.read_csv(args.input)\n    # If unsupervised fusion embeddings haven't been merged, script still works on base features.\n    if \"pph_proxy_v1\" not in df.columns:",
+        "detail": "src.fusion_model_files.train_fusion_proxy",
+        "documentation": {}
+    },
+    {
+        "label": "choose_fusion_feature_columns",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.train_fusion_unsupervised",
+        "description": "src.fusion_model_files.train_fusion_unsupervised",
+        "peekOfCode": "def choose_fusion_feature_columns(df: pd.DataFrame) -> List[str]:\n    drop_exact = {\n        \"row_id\",\n        \"Risk Level\",\n        \"pph\", \"pph_proxy_v1\", \"pph_proxy_score_v1\", \"pph_proxy_label_type\",\n        \"Label\", \"anaemic\", \"Anaemic\"\n    }\n    cols = []\n    for c in df.columns:\n        if c in drop_exact:",
+        "detail": "src.fusion_model_files.train_fusion_unsupervised",
+        "documentation": {}
+    },
+    {
+        "label": "add_noise",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.train_fusion_unsupervised",
+        "description": "src.fusion_model_files.train_fusion_unsupervised",
+        "peekOfCode": "def add_noise(x: np.ndarray, std: float = 0.10) -> np.ndarray:\n    noisy = x + np.random.normal(0, std, size=x.shape)\n    noisy = np.nan_to_num(noisy, nan=0.0, posinf=0.0, neginf=0.0)\n    return np.clip(noisy, -8, 8)\ndef build_dae(input_dim: int, emb_dim: int = 32) -> tuple[Model, Model]:\n    inp = Input(shape=(input_dim,), name=\"fusion_input\")\n    x = Dense(128, activation=\"relu\")(inp)\n    x = BatchNormalization()(x)\n    x = Dropout(0.20)(x)\n    x = Dense(64, activation=\"relu\")(x)",
+        "detail": "src.fusion_model_files.train_fusion_unsupervised",
+        "documentation": {}
+    },
+    {
+        "label": "build_dae",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.train_fusion_unsupervised",
+        "description": "src.fusion_model_files.train_fusion_unsupervised",
+        "peekOfCode": "def build_dae(input_dim: int, emb_dim: int = 32) -> tuple[Model, Model]:\n    inp = Input(shape=(input_dim,), name=\"fusion_input\")\n    x = Dense(128, activation=\"relu\")(inp)\n    x = BatchNormalization()(x)\n    x = Dropout(0.20)(x)\n    x = Dense(64, activation=\"relu\")(x)\n    x = BatchNormalization()(x)\n    x = Dropout(0.20)(x)\n    emb = Dense(emb_dim, activation=\"relu\", name=\"fusion_embedding\")(x)\n    y = Dense(64, activation=\"relu\")(emb)",
+        "detail": "src.fusion_model_files.train_fusion_unsupervised",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.train_fusion_unsupervised",
+        "description": "src.fusion_model_files.train_fusion_unsupervised",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description=\"Train unsupervised fusion denoising autoencoder and export fusion embeddings.\")\n    parser.add_argument(\"--input\", default=\"data/processed/fusion_master_with_proxy.csv\")\n    parser.add_argument(\"--output-csv\", default=\"data/processed/fusion_master_with_embeddings.csv\")\n    parser.add_argument(\"--artifacts-root\", default=\"models_artifacts/fusion_encoder\")\n    parser.add_argument(\"--emb-dim\", type=int, default=32)\n    parser.add_argument(\"--epochs\", type=int, default=200)\n    parser.add_argument(\"--batch-size\", type=int, default=32)\n    args = parser.parse_args()\n    df = pd.read_csv(args.input)",
+        "detail": "src.fusion_model_files.train_fusion_unsupervised",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_dir",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "peekOfCode": "def ensure_dir(path: str) -> str:\n    os.makedirs(path, exist_ok=True)\n    return path\ndef timestamp_version() -> str:\n    return datetime.now().strftime(\"%Y%m%d_%H%M%S\")\ndef save_json(obj, path: str) -> None:\n    ensure_dir(os.path.dirname(path) or \".\")\n    with open(path, \"w\", encoding=\"utf-8\") as f:\n        json.dump(obj, f, indent=2, default=_json_default)\ndef load_json(path: str):",
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timestamp_version",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "peekOfCode": "def timestamp_version() -> str:\n    return datetime.now().strftime(\"%Y%m%d_%H%M%S\")\ndef save_json(obj, path: str) -> None:\n    ensure_dir(os.path.dirname(path) or \".\")\n    with open(path, \"w\", encoding=\"utf-8\") as f:\n        json.dump(obj, f, indent=2, default=_json_default)\ndef load_json(path: str):\n    with open(path, \"r\", encoding=\"utf-8\") as f:\n        return json.load(f)\ndef _json_default(x):",
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_json",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "peekOfCode": "def save_json(obj, path: str) -> None:\n    ensure_dir(os.path.dirname(path) or \".\")\n    with open(path, \"w\", encoding=\"utf-8\") as f:\n        json.dump(obj, f, indent=2, default=_json_default)\ndef load_json(path: str):\n    with open(path, \"r\", encoding=\"utf-8\") as f:\n        return json.load(f)\ndef _json_default(x):\n    if isinstance(x, (np.integer,)):\n        return int(x)",
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_json",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "peekOfCode": "def load_json(path: str):\n    with open(path, \"r\", encoding=\"utf-8\") as f:\n        return json.load(f)\ndef _json_default(x):\n    if isinstance(x, (np.integer,)):\n        return int(x)\n    if isinstance(x, (np.floating,)):\n        return float(x)\n    if isinstance(x, (np.ndarray,)):\n        return x.tolist()",
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "numeric_columns",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "peekOfCode": "def numeric_columns(df: pd.DataFrame) -> List[str]:\n    return df.select_dtypes(include=[np.number]).columns.tolist()\ndef coerce_numeric_inplace(df: pd.DataFrame, cols: Iterable[str]) -> None:\n    for c in cols:\n        df[c] = pd.to_numeric(df[c], errors=\"coerce\")\ndef sanitize_numeric_df(df: pd.DataFrame) -> pd.DataFrame:\n    out = df.copy()\n    num_cols = numeric_columns(out)\n    out[num_cols] = out[num_cols].replace([np.inf, -np.inf], np.nan)\n    return out",
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "coerce_numeric_inplace",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "peekOfCode": "def coerce_numeric_inplace(df: pd.DataFrame, cols: Iterable[str]) -> None:\n    for c in cols:\n        df[c] = pd.to_numeric(df[c], errors=\"coerce\")\ndef sanitize_numeric_df(df: pd.DataFrame) -> pd.DataFrame:\n    out = df.copy()\n    num_cols = numeric_columns(out)\n    out[num_cols] = out[num_cols].replace([np.inf, -np.inf], np.nan)\n    return out\ndef median_impute(df: pd.DataFrame) -> Tuple[pd.DataFrame, dict]:\n    out = df.copy()",
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "sanitize_numeric_df",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "peekOfCode": "def sanitize_numeric_df(df: pd.DataFrame) -> pd.DataFrame:\n    out = df.copy()\n    num_cols = numeric_columns(out)\n    out[num_cols] = out[num_cols].replace([np.inf, -np.inf], np.nan)\n    return out\ndef median_impute(df: pd.DataFrame) -> Tuple[pd.DataFrame, dict]:\n    out = df.copy()\n    medians = {}\n    for c in out.columns:\n        if pd.api.types.is_numeric_dtype(out[c]):",
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "median_impute",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "peekOfCode": "def median_impute(df: pd.DataFrame) -> Tuple[pd.DataFrame, dict]:\n    out = df.copy()\n    medians = {}\n    for c in out.columns:\n        if pd.api.types.is_numeric_dtype(out[c]):\n            m = float(np.nanmedian(out[c].values.astype(float))) if out[c].notna().any() else 0.0\n            out[c] = out[c].fillna(m)\n            medians[c] = m\n    return out, medians\ndef robust_clip_df(df: pd.DataFrame, lower_q: float = 0.01, upper_q: float = 0.99) -> Tuple[pd.DataFrame, dict]:",
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "robust_clip_df",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "peekOfCode": "def robust_clip_df(df: pd.DataFrame, lower_q: float = 0.01, upper_q: float = 0.99) -> Tuple[pd.DataFrame, dict]:\n    out = df.copy()\n    clip_meta = {}\n    for c in out.columns:\n        if pd.api.types.is_numeric_dtype(out[c]):\n            s = pd.to_numeric(out[c], errors=\"coerce\")\n            if s.notna().sum() < 5:\n                continue\n            lo = float(s.quantile(lower_q))\n            hi = float(s.quantile(upper_q))",
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "split_feature_groups",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "peekOfCode": "def split_feature_groups(columns: List[str]) -> dict:\n    return {\n        \"clinical_embeddings\": [c for c in columns if c.startswith(\"clin_emb_\")],\n        \"anemia_embeddings\": [c for c in columns if c.startswith(\"anemia_emb_\")],\n        \"ppg_embeddings\": [c for c in columns if c.startswith(\"ppg_emb_\")],\n        \"fusion_embeddings\": [c for c in columns if c.startswith(\"fusion_emb_\")],\n        \"anemia_prob\": [c for c in columns if c == \"p_anemia\"],\n        \"ppg_proxies\": [c for c in columns if c in {\"hr_bpm_est\", \"ibi_mean\", \"ibi_std\", \"peak_count\", \"ppg_amp_mean\", \"ppg_amp_std\", \"signal_quality\"}],\n    }\ndef pick_threshold_for_recall(y_true: np.ndarray, y_prob: np.ndarray, min_recall: float = 0.90) -> float:",
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "pick_threshold_for_recall",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "peekOfCode": "def pick_threshold_for_recall(y_true: np.ndarray, y_prob: np.ndarray, min_recall: float = 0.90) -> float:\n    from sklearn.metrics import recall_score\n    thresholds = np.linspace(0.01, 0.99, 199)\n    chosen = 0.50\n    best_precisionish = -1.0\n    # Prefer highest threshold satisfying recall constraint\n    for t in thresholds:\n        pred = (y_prob >= t).astype(int)\n        r = recall_score(y_true, pred, zero_division=0)\n        if r >= min_recall:",
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "map_risk_level_to_binary",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "peekOfCode": "def map_risk_level_to_binary(series: pd.Series) -> pd.Series:\n    s = series.astype(str).str.strip().str.lower()\n    return (s == \"high\").astype(int)\ndef map_risk_level_to_multiclass(series: pd.Series) -> pd.Series:\n    s = series.astype(str).str.strip().str.lower()\n    mapping = {\"low\": 0, \"medium\": 1, \"high\": 2}\n    return s.map(mapping)\ndef save_joblib(obj, path: str) -> None:\n    ensure_dir(os.path.dirname(path) or \".\")\n    joblib.dump(obj, path)",
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "map_risk_level_to_multiclass",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "peekOfCode": "def map_risk_level_to_multiclass(series: pd.Series) -> pd.Series:\n    s = series.astype(str).str.strip().str.lower()\n    mapping = {\"low\": 0, \"medium\": 1, \"high\": 2}\n    return s.map(mapping)\ndef save_joblib(obj, path: str) -> None:\n    ensure_dir(os.path.dirname(path) or \".\")\n    joblib.dump(obj, path)",
+        "detail": "src.fusion_model_files.utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_joblib",
+        "kind": 2,
+        "importPath": "src.fusion_model_files.utils",
+        "description": "src.fusion_model_files.utils",
+        "peekOfCode": "def save_joblib(obj, path: str) -> None:\n    ensure_dir(os.path.dirname(path) or \".\")\n    joblib.dump(obj, path)",
+        "detail": "src.fusion_model_files.utils",
         "documentation": {}
     }
 ]
