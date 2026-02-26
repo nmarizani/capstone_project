@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'features/auth/presentation/pages/splash_page.dart';
+import 'features/home_pages/splash_page.dart';
 
 class RuvimboApp extends StatelessWidget {
   const RuvimboApp({super.key});
@@ -17,7 +17,7 @@ class RuvimboApp extends StatelessWidget {
           border: OutlineInputBorder(),
         ),
       ),
-      home: const SplashPage(),
+      home: const SplashScreen(),
     );
   }
 }
